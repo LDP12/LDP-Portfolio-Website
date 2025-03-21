@@ -2,7 +2,7 @@
   "name": "Portfolio-Website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ldp12.github.io/LDP-Portfolio-Website",
+  "homepage": "https://ldp12.github.io/LDP-Portfolio-Website/",
   "type": "module",
   "scripts": {
     "dev": "vite",
