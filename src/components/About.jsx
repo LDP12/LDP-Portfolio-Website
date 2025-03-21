@@ -40,12 +40,10 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Software Engineer for Pantel Elektronik AG based in Germany.
-          I work remotely from South Africa, I am extremely passionate about tech.
-          I am always looking for ways to learn & grow, I am continually improving
-          my knowledge of cutting edge tech & best practices in the industry. I believe
-          in a work-smart work ethic & I am not afraid to put in the extra hours if it \
-          means positive results.
+        I am a Software Engineer, I work remotely from Cape Town, South Africa. I am currently employed by
+          Pantel Elektronik AG based in Germany. I am extremely passionate about tech & I am always looking
+          to learn & grow constantly. I am driven by the ever changing & evolving industry, & I consistently ensure
+          that I remain knowledgeable about the new, cutting edge tech & best practices.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

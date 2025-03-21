@@ -62,7 +62,7 @@ export const technologies = [
 
 export const experiences = [
   {
-    title: ".NET Software Engineer",
+    title: "Full Stack Software Engineer",
     company_name: "redPanda | redAcademy",
     icon: redpanda,
     iconBg: "#161329",
@@ -73,7 +73,7 @@ export const experiences = [
     ],
   },
   {
-    title: "Pantel Elektronik AG",
+    title: "Full Stack Software Engineer",
     company_name: "Pantel Elektronik AG | Pantel Services SA",
     icon: pantel,
     iconBg: "#161329",
@@ -90,7 +90,7 @@ export const projects = [
   {
     name: "WeatherPedia",
     description:
-      "Web-based platform that allows users to access weather information for their location by entering it in the search field",
+        "Web-based platform that allows users to access weather information for their location by entering it in the search field",
     tags: [
       { name: "MySQL", color: "blue-text-gradient" },
       { name: "HTML", color: "green-text-gradient" },
@@ -102,7 +102,7 @@ export const projects = [
   {
     name: "Terminal Like Portfolio Website",
     description:
-      "A terminal themed portfolio website that allows users to type into the terminal and use commands like a real terminal.",
+        "A terminal themed portfolio website that allows users to type into the terminal and use commands like a real terminal.",
     tags: [
       { name: "HTML", color: "blue-text-gradient" },
       { name: "CSS", color: "green-text-gradient" },
@@ -113,7 +113,7 @@ export const projects = [
   {
     name: "Mental Health Fitness Tracker",
     description:
-      "ML model that utilizes regression techniques to provide insights into mental health and make predictions based on the available data.",
+        "ML model that utilizes regression techniques to provide insights into mental health and make predictions based on the available data.",
     tags: [
       { name: "Machine Learning", color: "blue-text-gradient" },
       { name: "Jupyter Notebook", color: "green-text-gradient" },

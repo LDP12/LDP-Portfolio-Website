@@ -21,7 +21,7 @@ import redpanda from "./company/redpanda.png";
 import pantel from "./company/PantelElektronik.jpg";
 
 // Import common assets
-import logo from "./logo.svg";
+import logo from "./luke.jpg";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
